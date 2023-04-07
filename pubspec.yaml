@@ -1,0 +1,105 @@
+name: chat_app
+description: A new Flutter project.
+
+
+
+publish_to: 'none' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+
+
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  
+  
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.1.6
+  google_fonts: ^3.0.1
+  rename:
+  flutter_launcher_icons:
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.4
+  image_picker: ^0.8.6
+  firebase_storage: ^11.0.6
+  cloud_firestore : 
+  get: ^4.6.5
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "asset/chat_app_logo.jpg"
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  
+  
+  
+  flutter_lints: ^2.0.0
+
+
+
+
+
+flutter:
+
+  
+  
+  
+  uses-material-design: true
+
+  
+  assets:
+    - asset/
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
